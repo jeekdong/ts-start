@@ -1,0 +1,10 @@
+{
+  "extends": [
+    "lofter",
+    "lofter/react",
+    "lofter/typescript"
+  ],
+  "parserOptions": {
+    "project": "./tsconfig.json"
+  }
+}
